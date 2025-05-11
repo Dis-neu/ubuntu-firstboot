@@ -27,7 +27,7 @@ A simple setup script to configure a fresh Ubuntu system with basic tools, firew
 ```bash
   git clone https://github.com/Dis-neu/ubuntu-firstboot.git
 ```
-- navigate to this repo ubuntu-firstboot
+- Navigate to this repo ubuntu-firstboot
 
 2. Make the setup script executable:
 
