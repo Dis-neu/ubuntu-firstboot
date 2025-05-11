@@ -9,8 +9,8 @@ A simple setup script to configure a fresh Ubuntu system with basic tools, firew
 - System update and upgrade
 - Installs essential tools (`curl`, `git`)
 - Installs and configures UFW (Uncomplicated Firewall)
-- Optionally creates a new non-root user with sudo access
-- Installs GNOME Tweaks (for desktop customization)
+- Create a new user with sudo access
+- Installs GNOME Tweaks (optional)
 
 ---
 
@@ -23,9 +23,11 @@ A simple setup script to configure a fresh Ubuntu system with basic tools, firew
 
 ## Installation
 
-1. Clone the repository
-
-- cd ubuntu-firstboot
+1. Clone the repository:
+```bash
+  git clone https://github.com/Dis-neu/ubuntu-firstboot.git
+```
+- navigate to this repo ubuntu-firstboot
 
 2. Make the setup script executable:
 
