@@ -23,9 +23,8 @@ A simple setup script to configure a fresh Ubuntu system with basic tools, firew
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-- git clone https://github.com/Dis-neu/ubuntu-firstboot.git
+1. Clone the repository
+
 - cd ubuntu-firstboot
 
 2. Make the setup script executable:
